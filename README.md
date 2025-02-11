@@ -8,7 +8,7 @@ Favicon Thief is a Python script that scrapes and downloads favicons from a list
 - Supports multiple image formats: `.ico`, `.png`, `.jpg`, `.jpeg`, `.webp`.
 - Creates separate directories for each website.
 - Uses Python’s `requests` and `BeautifulSoup` for web scraping.
-- Works with a list of URLs from a file.
+- Works with a list of URLs from a file. (`urls.txt`)
 
 ## Installation
 Ensure you have UV installed and run `uv sync`
